@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoMardonesAlvarez
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning English, Python, C/C++, JavaScript, CSS, HTML, SQL, Oracle, Node.js, libraries like Johnny-Five and more
+- 🌱 I’m currently learning English, Python, C/C++, JavaScript, CSS, HTML, MySQL, Oracle, Node.js, libraries like Johnny-Five and more
 - 💞️ I’m looking to collaborate on Arduino Projects
 - 📫 How to reach me ---> rodrigomardones@protonmail.com
 
